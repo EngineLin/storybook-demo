@@ -1,0 +1,39 @@
+{
+  "name": "storybook-vue",
+  "private": true,
+  "version": "1.0.0",
+  "description": "My storybook of vue",
+  "scripts": {
+    "storybook": "start-storybook -p 9001 -c .storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndelangen/storybook-vue-example.git"
+  },
+  "dependencies": {
+    "vue": "^2.4.1",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@storybook/addon-actions": "alpha",
+    "@storybook/addon-knobs": "alpha",
+    "@storybook/addon-links": "^3.3.14",
+    "@storybook/addon-notes": "alpha",
+    "@storybook/cli": "alpha",
+    "@storybook/vue": "alpha",
+    "css-loader": "^0.28.10",
+    "file-loader": "^1.1.11",
+    "node-sass": "^4.7.2",
+    "url-loader": "^1.0.1",
+    "sass-loader": "^6.0.7",
+    "style-loader": "^0.20.2",
+    "vue-loader": "^12.2.1",
+    "vue-template-compiler": "^2.5.13",
+    "webpack": "^2.5.1"
+  },
+  "keywords": [
+    "vue",
+    "vuejs"
+  ],
+  "author": "Engine Lin"
+}
