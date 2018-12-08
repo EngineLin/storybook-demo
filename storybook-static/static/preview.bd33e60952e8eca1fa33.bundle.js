@@ -39114,7 +39114,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
   }, [_c('h1', [_vm._v("成功使用 storybook 啦!")]), _vm._v(" "), _c('p', [_vm._v("\n    This is a UI component dev environment for your app.\n  ")]), _vm._v(" "), _c('img', {
     staticClass: "logo",
     attrs: {
-      "src": "https://cdn.rawgit.com/storybooks/press/01d05ae5/release-cover/storybook-for-vue/storybook.for.vue.png"
+      "src": "https://cdn.jsdelivr.net/gh/storybooks/press@01d05ae5/release-cover/storybook-for-vue/storybook.for.vue.png"
     }
   }), _vm._v(" "), _c('div', {
     staticClass: "help"
